@@ -37,7 +37,6 @@ black software is a software company
 
 
 ##### [License](https://github.com/black-software-Com/Black-Webbrowser/blob/master/LICENSE)
-<br>
 
 #### If the software has a problem, Email the address below
 
