@@ -3,7 +3,7 @@
   
 # Black Software
 </center>
-<a href="https://github.com/black-software-com/black-software" target="_top" style="text-align:center;">
+<a href="https://github.com/black-software-com/black-software" target="_top" style="text-align:center;" title="Black Software">
 <img src="https://github.com/black-software-Com/Black-Software/blob/master/docs/img/black-software-logo-.png" title="Black Software Logo" alt="Black Software Logo">
 </a>
 <hr>
