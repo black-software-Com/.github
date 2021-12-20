@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+<!-- Black Software -->
+<center>
+  
+# Black Software
+</center>
+<a href="https://github.com/black-software-com/black-software" target="_top" style="text-align:center;" title="Black Software">
+<img src="https://github.com/black-software-Com/Black-Software/blob/master/docs/img/black-software-logo-.png" title="Black Software Logo" alt="Black Software Logo">
+</a>
+<hr>
 
-You can use the [editor on GitHub](https://github.com/black-software-Com/.github/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<h3>
+black software is a software company
+</h3>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [Projects](https://github.com/black-software-com)
 
-### Markdown
+<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Black Sofwtare on Community Networks ⬛
+---
 
-```markdown
-Syntax highlighted code block
+[Github](https://github.com/black-software-com)
 
-# Header 1
-## Header 2
-### Header 3
+[Instagram](https://instagram.com/black_software_company)
 
-- Bulleted
-- List
+[Facebook](https://www.facebook.com/profile.php?id=100076104841323)
 
-1. Numbered
-2. List
+[Telegram](https://t.me/blacksoftware3)
 
-**Bold** and _Italic_ and `Code` text
+[twitter](https://twitter.com/blacksoftware3 )
 
-[Link](url) and ![Image](src)
+[YouTube](https://www.youtube.com/channel/UCJNgrVc2NvEuMkASBa5AzLg)
+
+[LinkedIn](https://www.linkedin.com/in/black-software-608425226/)
+
+[Pinterest](https://www.pinterest.com/blacksoftwarecompany3/_saved/)
+
+[Zlink](https://zil.ink/blacksoftware)
+
+---
+
+
+##### [License](https://github.com/black-software-Com/Black-Webbrowser/blob/master/LICENSE)
+
+#### If the software has a problem, Email the address below
+
+``` txt 
+blacksoftwarecompany3@gmail.com
+blacksoftwares3@gmail.com  (Support)
+mrprogrammer2938@gmail.com
+gg1504722@gmail.com
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/black-software-Com/.github/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<br>
+<!-- Black Software -->
