@@ -9,7 +9,7 @@
 <hr>
 
 <h3>
-black software is a software company
+Black Software is a Software Company
 </h3>
 
 ## [Projects](https://github.com/black-software-com)
