@@ -1,8 +1,7 @@
 <!-- Black Software -->
 <!-- سینا میثمی -->
-<center>
-  
-# Black Software
+<center> 
+  <h1> <a href="https://github.com/black-software-com" title="Black Software"> Black Software </a> </h1>
 </center>
 <a href="https://github.com/black-software-com/black-software" target="_top" style="text-align:center;" title="Black Software">
 <img src="https://github.com/black-software-Com/Black-Software/blob/master/docs/img/black-software-logo-.png" title="Black Software Logo" alt="Black Software Logo">
