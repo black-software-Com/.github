@@ -27,7 +27,7 @@ Black Software is a Software Company
 
 [Telegram](https://t.me/blacksoftware3)
 
-[twitter](https://twitter.com/blacksoftware3 )
+[Twitter](https://twitter.com/blacksoftware3 )
 
 [YouTube](https://www.youtube.com/channel/UCJNgrVc2NvEuMkASBa5AzLg)
 
