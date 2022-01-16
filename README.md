@@ -52,4 +52,4 @@ gg1504722@gmail.com
 ```
 
 <br>
-<!-- Black Software -->
+<!-- © 2022 - Black Software -->
