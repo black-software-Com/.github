@@ -1,19 +1,14 @@
 <!-- © 2022 - Black Software -->
 <center>
   
-# Black Software
+# [Black Software](https://github.com/black-software-Com)
 </center>
-<a href="https://github.com/black-software-com/black-software" target="_top" style="text-align:center;" title="Black Software">
-  <img src="https://github.com/black-software-Com/Black-Software/blob/master/docs/img/black-software-logo-.png" title="Black Software Logo" alt="Black Software Logo">
-</a>
-<hr>
 
-<h3>
-black software is a software company
-</h3>
+[![black-software-logo-](https://user-images.githubusercontent.com/78996423/149644560-3165ff5a-66e0-4ed0-9ca4-de19d7130724.png)](https://github.com/black-software-Com/)
+<hr>
+<h3> black software is a software company </h3>
 
 ## [Projects](https://github.com/black-software-com)
-
 <br>
 
 ### Black Sofwtare on Community Networks ⬛
